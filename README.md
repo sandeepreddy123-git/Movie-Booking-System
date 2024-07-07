@@ -1,4 +1,4 @@
-# BookMyShow Clone
+# CineWave
 This project is a clone of the popular online movie ticket booking platform, BookMyShow, built using Java and Spring Boot. The application utilizes a MySQL database to store and manage data related to movies, theatres, and user bookings. Following best coding practices, including adherence to coding principles and design patterns, ensures the codebase's robustness, scalability, and maintainability.
 
 ## Features
